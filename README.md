@@ -26,3 +26,7 @@ A simple app for you to have fun with and scan random things!
 - OpenAI API key with access to `gpt-4-turbo` and vision input
 - Internet access for API calls
 
+### Improvements and Additional Thoughts:
+- Cleaner code implementation; it's a bit messy as I was learning whilst doing the coding.
+- Is there a better way to do this rather than clicking "Scan" everytime?
+- What's a real-life application I can use this for? 
